@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Elison Kenji!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ElisonKenjis&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Studying Software Analysis and Developing 
+- 🔥 Studying Computer Science
 
 - 👨‍💻 I am currently studying to become a Full-Stack Developer
 
@@ -22,8 +22,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=thulers&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulers&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ElisonKenjis&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisonKenjis&layout=compact&theme=vision-friendly-dark" alt="ElisonKenji's most languages"/>
 </p>
 
 <br><br>

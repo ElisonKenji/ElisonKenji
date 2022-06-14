@@ -23,7 +23,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ElisonKenji&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisonKenjis&layout=compact&theme=vision-friendly-dark" alt="ElisonKenji" most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisonKenji&layout=compact&theme=vision-friendly-dark" alt="ElisonKenji" most languages"/>
 </p>
 
 <br><br>

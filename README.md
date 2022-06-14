@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Elison Kenji!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ElisonKenjis&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ElisonKenji&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Studying Computer Science
 
@@ -22,8 +22,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ElisonKenjis&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisonKenjis&layout=compact&theme=vision-friendly-dark" alt="ElisonKenji's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ElisonKenji&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisonKenjis&layout=compact&theme=vision-friendly-dark" alt="ElisonKenji" most languages"/>
 </p>
 
 <br><br>
